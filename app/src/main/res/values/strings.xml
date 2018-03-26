@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Achieve Me Pls !</string>
+    <string name="give_me_more">Give me more !</string>
+    <string name="salut_mon_pote">Salut mon pote</string>
+    <string name="cookie_clicked">Number of cookies clicked :</string>
+    <string name="change_activity">Change activity</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="go_back_pls">Go back pls</string>
+</resources>
